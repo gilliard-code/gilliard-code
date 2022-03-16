@@ -29,12 +29,8 @@ My name is Gilliard from São Paulo, Brazil and I am a Developer.
             <img src="https://drummond.com.br/wp-content/uploads/2020/06/logo-drumond-azul.svg" style="width: 70px; height: 70px; padding: 5px;  background-color: #FFF">
         </td>
         <td style="width: 100%;">
-            <h3><b>API Design and Fundamentals of Google Cloud's Apigee API Platform</b></h3>
-            <h3>Coursera</h3>
-        </td>
-    </tr>
-        <td colspan="2">
-            <a href="https://www.coursera.org/account/accomplishments/verify/N4XDB3GFX93S?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" style="width: 200px; height: 30px; border-radius: 15px; border: 1px solid black" >SHOW CREDENTIAL />
+            <h3><b>International Business</b></h3>
+            <h3>Carlos Drummond de Andrade University</h3>
         </td>
     </tr>
     <!-- 1 - Course -->
